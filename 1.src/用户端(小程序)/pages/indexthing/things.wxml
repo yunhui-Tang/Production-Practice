@@ -1,0 +1,25 @@
+<!--pages/indexthing/things.wxml-->
+
+<view class="goods_messega">
+      <image mode="widthFix" src="{{goodsobj.list_pic_url}}">
+      </image>
+</view>
+
+<view class="name" >{{goodsobj.name}}{{goodsobj.goods_unit}}</view>
+
+<view class="brief"><text class="shortbrief">简介：</text>{{goodsobj.goods_brief}}</view>
+
+<view class="brief"><text class="shortbrief">单价：</text>${{goodsobj.retail_price}}
+</view>
+
+<view class="brief"><text class="shortbrief">评价：</text>{{goodsobj.https_pic_url}}
+</view>
+<view class="A">
+<view class="item2 " bindtap="handleCartAdd">加入订单</view>
+
+
+<navigator open-type="switchTab" url="/pages/cart/cart" class="tool_item">
+    <view ></view>
+    <view class="item1">立即购买</view>
+  </navigator>
+</view>

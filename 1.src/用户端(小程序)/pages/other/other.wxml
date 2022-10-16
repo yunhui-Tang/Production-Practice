@@ -1,0 +1,19 @@
+<!--pages/other/other.wxml-->
+<view class="bigtitle" >
+    <text >购买须知</text>
+</view>
+
+<view class="secondtitle">
+<text>桶押金：</text>
+</view>
+<view class="zhengwen" >
+<text>首次购买需交付桶押金，桶押金10元/个，由配送员送水上门时出示平台“押金收款码”收取，付款时请注意查看收款方是否为“小微订水”。退桶时会自动返回账户。</text>
+</view>
+
+<view class="secondtitle">
+<text>温馨提示：</text>
+</view>
+<view class="zhengwen">
+<text>小微系统是一款方便用户足不出户订到水的智能系统，所以一切交易只在线上进行，为了确保您的资金安全，请遵守相关规定，杜绝一切线下交易，避免您的财产损失。</text>
+</view>
+

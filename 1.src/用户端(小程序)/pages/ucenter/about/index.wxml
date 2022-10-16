@@ -1,0 +1,16 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>
+<button type="primary" bindtap="go">小微订水购买须知</button>
+
+</view>
+        <view class="line"></view>
+        <view class="content">开发者：小微订水系统小组</view>
+        <view class="content">微信：xiaoweidingshui</view>
+        <view class="line"></view>
+        <view class='content'>
+            需要更多帮助请拨打电话：10086
+        </view>
+    </view>
+    <!-- <ad unit-id="adunit-1776b4f8f2217197" ad-type="video" ad-theme="white"></ad> -->
+</view>

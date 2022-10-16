@@ -1,0 +1,19 @@
+
+<view>
+<block class="item_image" wx:for="{{swiperlist}}" wx:if="{{index<4}}">
+        <view class="image_messega" wx:key="id" >
+        
+           <image class="image_list" src="{{item.list_pic_url}} " mode="aspectFit">
+           </image>
+          </view>
+       <view class="item_name">
+            <navigator 
+            url="/pages/indexthing/things?id={{item.id}}">
+                <view>{{item.name}}</view>
+            </navigator>
+       </view> 
+       
+          
+  </block>
+</view>
+

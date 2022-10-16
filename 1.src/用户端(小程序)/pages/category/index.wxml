@@ -1,0 +1,26 @@
+<view class="container">
+	<view>
+	<view class="oc">
+		<image class="tu" src="/images/water/aerbeisi.jpg" ></image>
+	</view>
+	<view><text>阿尔卑斯水票，原价每桶35元，现票50元两桶</text></view>
+	<view><button type="primary">立即购买</button></view>
+	<view><button type="warn">加入订单</button></view>
+	
+	<view class="oc">
+		<image class="tu" src="/images/water/balabala.jpg"></image>
+	</view>
+	<view><text>巴拿巴拿水票，原价40元每桶，现票100元3桶</text></view>
+	<view><button type="primary">立即购买</button></view>
+	<view><button type="warn">加入订单</button></view>
+	
+	
+	<view class="oc">
+		<image class="tu" src="/images/water/huoshan.jpg"></image>
+	</view>
+	<view><text>火山岩水票，原价35元每桶，现票100元3桶</text></view>
+	<view><button type="primary">立即购买</button></view>
+	<view><button type="warn">加入订单</button></view>
+	
+	</view>
+</view>

@@ -1,0 +1,14 @@
+/* pages/other/other.wxss */
+.bigtitle{
+    text-align: center;
+    font-weight:bold;
+    font-size: 25px;
+   
+}
+
+.secondtitle{
+    font-weight:bold;
+}
+.zhengwen{
+    font-size: 80%;
+}
