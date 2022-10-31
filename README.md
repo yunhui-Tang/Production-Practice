@@ -34,34 +34,31 @@
     小微订水
 
 #### 项目组长
-    唐运茴
+    唐运茴(Tang yunhui)
 
 #### 项目成员
-1.  林川凯
-2.  郭宏时
-3.  孙宇彤
-4.  李虹潮
+1.  [林川凯](https://gitee.com/lin-chuankai)
+2.  [郭宏时](https://gitee.com/guo-ma)
+3.  [孙宇彤](https://gitee.com/Albusever)
+4.  [李虹潮](https://gitee.com/lgs-glut)
 
 #### 软件前端架构
 1.  Vue
 
 #### 软件后端架构
 1.  Spring Boot
-2.  Mysql
-
+2.  Mybatis Plus
+3.  Spring MVC
+4.  Redis
+5.  Mysql
 
 #### 安装教程
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
+1.  [安装部署](https://github.com/yunhui-Tang/Production-Practice/tree/main/2.doc/5.User%20training%20documentation)
 
 #### 使用说明
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
+1.  [使用手册](https://github.com/yunhui-Tang/Production-Practice/tree/main/2.doc/5.User%20training%20documentation)
 
 #### 参与贡献
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  
